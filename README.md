@@ -4,7 +4,7 @@ Este repositório contém exemplos práticos de implementação de padrões de p
 
 ## Padrões Implementados
 
-- [Strategy](/StrategyPattern): Exemplo de aplicação do padrão Strategy.
+- [Strategy](/StrategyPattern): Exemplo de aplicação do padrão Strategy, que permite definir uma família de algoritmos, encapsulá-los e torná-los intercambiáveis.
 
 ## Como usar
 
