@@ -9,4 +9,4 @@ Este repositório contém exemplos práticos de implementação de padrões de p
   
 ## Como usar
 
-Clone o repositório e abra a solução no visual studio, navegue entre os projetos para visualizar como foi implementado os padrões de projeto. Em testes é possível visualizar como funciona. 
+Clone o repositório e abra a solução no visual studio, navegue entre os projetos para visualizar como foi implementado os padrões de projeto. Em testes é possível executar e visualizar como funciona a implementação do pattern. 
